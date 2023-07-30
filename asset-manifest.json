@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//nandankumar-github.github.io/react-portfolio/static/css/main.e7e50255.css",
-    "main.js": "/https//nandankumar-github.github.io/react-portfolio/static/js/main.2375025b.js",
-    "static/media/array.jpg": "/https//nandankumar-github.github.io/react-portfolio/static/media/array.ada3d168af6ed57fbe3a.jpg",
-    "static/media/aws.png": "/https//nandankumar-github.github.io/react-portfolio/static/media/aws.6e76adc81e667f89fef3.png",
-    "static/media/django.jpg": "/https//nandankumar-github.github.io/react-portfolio/static/media/django.4eb926a81b1ca9d3c522.jpg",
-    "static/media/JavaScript.jpg": "/https//nandankumar-github.github.io/react-portfolio/static/media/JavaScript.3c9c46359a684582d02b.jpg",
-    "static/media/react.jpg": "/https//nandankumar-github.github.io/react-portfolio/static/media/react.ffb4318278f398654f81.jpg",
-    "static/media/tailwind.jpg": "/https//nandankumar-github.github.io/react-portfolio/static/media/tailwind.2dc4ad3b8c7b0e702bcb.jpg",
-    "static/media/heroImage.jpeg": "/https//nandankumar-github.github.io/react-portfolio/static/media/heroImage.83f546da34d7358de606.jpeg",
-    "index.html": "/https//nandankumar-github.github.io/react-portfolio/index.html",
-    "main.e7e50255.css.map": "/https//nandankumar-github.github.io/react-portfolio/static/css/main.e7e50255.css.map",
-    "main.2375025b.js.map": "/https//nandankumar-github.github.io/react-portfolio/static/js/main.2375025b.js.map"
+    "main.css": "/react-portfolio/static/css/main.e7e50255.css",
+    "main.js": "/react-portfolio/static/js/main.7b261865.js",
+    "static/media/array.jpg": "/react-portfolio/static/media/array.ada3d168af6ed57fbe3a.jpg",
+    "static/media/aws.png": "/react-portfolio/static/media/aws.6e76adc81e667f89fef3.png",
+    "static/media/django.jpg": "/react-portfolio/static/media/django.4eb926a81b1ca9d3c522.jpg",
+    "static/media/JavaScript.jpg": "/react-portfolio/static/media/JavaScript.3c9c46359a684582d02b.jpg",
+    "static/media/react.jpg": "/react-portfolio/static/media/react.ffb4318278f398654f81.jpg",
+    "static/media/tailwind.jpg": "/react-portfolio/static/media/tailwind.2dc4ad3b8c7b0e702bcb.jpg",
+    "static/media/heroImage.jpeg": "/react-portfolio/static/media/heroImage.83f546da34d7358de606.jpeg",
+    "index.html": "/react-portfolio/index.html",
+    "main.e7e50255.css.map": "/react-portfolio/static/css/main.e7e50255.css.map",
+    "main.7b261865.js.map": "/react-portfolio/static/js/main.7b261865.js.map"
   },
   "entrypoints": [
     "static/css/main.e7e50255.css",
-    "static/js/main.2375025b.js"
+    "static/js/main.7b261865.js"
   ]
 }
